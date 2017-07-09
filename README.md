@@ -1,1 +1,2 @@
-# CS467
+# CS467 Capstone project
+# Gemini team - Text based Adventure Game
